@@ -1,2 +1,2 @@
 # yumi
-AI identity Yumi
+[AI identity Yumi](https://t.me/yumiai_bot)
